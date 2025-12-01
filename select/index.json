@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "セラヴィ",
+  "base_artist": "WEST.",
+  "createdAt": "2025-12-01T13:47:16.325452Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "C'est La Vie",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_01_C'est_La_Vie_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "C'est La Vie",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_02_C'est_La_Vie_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "セ・ラ・ヴィ ～女は愛に忙しい～",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_03_セ・ラ・ヴィ_~女は愛に忙しい~_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "C'est La Vie",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_04_C'est_La_Vie_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "C'est la vie feat. 七尾旅人",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_05_C'est_la_vie_feat._七尾旅人_L'Arc~en~Ciel.txt"
+    }
+  ]
+}
